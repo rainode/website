@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "title": "Rainode | Neural Hosting",
+    "description": "Predictive edge hosting for the products that ship fast."
+  },
+  "header": {
+    "brandName": "Rainode",
+    "brandTagline": "Neural Hosting",
+    "cta": "Join the waitlist"
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "terms": "Terms",
+    "privacy": "Privacy",
+    "status": "Status"
+  },
+  "home": {
+    "badge": "Coming Soon",
+    "title": "Neural hosting built for the <highlight>next release</highlight>.",
+    "description": "Rainode aligns edge routing, predictive scaling, and security into a single layer. We are launching soon. Stay close for early access.",
+    "primaryCta": "Get notified",
+    "secondaryCta": "Contact us",
+    "notePrimary": "Private beta in 2025",
+    "noteSecondary": "APAC-first edge fabric",
+    "cardTitle": "Launch Console",
+    "cardDescription": "A preview of the orchestration layer coming online.",
+    "cardMetricLabel": "Launch readiness",
+    "cardMetricValue": "10%",
+    "cardStatusLabel": "Early access",
+    "cardStatusValue": "Not available",
+    "cardTimelineLabel": "Next window",
+    "cardTimelineValue": "Q3 2025",
+    "comingSoonTitle": "Coming Soon",
+    "comingSoonBody": "We are calibrating the first wave of Rainode. Updates landing soon."
+  }
+}
